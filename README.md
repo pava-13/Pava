@@ -65,4 +65,13 @@ Multi-cloud architecture using AWS and Render provides a powerful and flexible s
 
 
 **OUTPUT**
-
+![Image](https://github.com/user-attachments/assets/934dfe2a-f60d-4638-893f-aa0a2ee7a449)
+![Image](https://github.com/user-attachments/assets/a3d92474-6fdb-4564-acf7-12e72a3e3d79)
+![Image](https://github.com/user-attachments/assets/6e3fb123-dabb-479a-978c-af8003519ac0)
+![Image](https://github.com/user-attachments/assets/feccda07-6540-4c9c-93ab-7072b64da696)
+![Image](https://github.com/user-attachments/assets/64a6e80b-fb85-4e1e-b027-cb426108ef79)
+![Image](https://github.com/user-attachments/assets/8b6b25d2-1fd4-41c0-a3dc-39905f0bbbb4)
+![Image](https://github.com/user-attachments/assets/882d7e24-9828-42c7-967b-5d5fc8a58a2d)
+![Image](https://github.com/user-attachments/assets/f0949dca-83b6-46ea-a696-699e6514fa94)
+![Image](https://github.com/user-attachments/assets/7e08a453-9a14-4d1e-b168-2bd75c1408a4)
+![Image](https://github.com/user-attachments/assets/96a73f83-8c83-46ff-a237-f95851c0330b)
