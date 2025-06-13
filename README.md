@@ -1,1 +1,15 @@
 # Pava
+
+COMPANY : CODETECH IT SOLUTIONS
+
+NAME : PAVATHAARINI A
+
+INTERN ID : CT04DG907
+
+DOMAIN :Cloud Computing
+
+DURATION : 4 WEEKS
+
+MENTOR :Neela Santhosh Kumar
+
+
