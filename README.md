@@ -12,7 +12,7 @@ DURATION : 4 WEEKS
 
 MENTOR :Neela Santhosh Kumar
 
-Sure! Here is a 550-word description of **Multi-Cloud Architecture Using AWS and Render**:
+
 ### Multi-Cloud Architecture Using AWS and Render
 
 In today’s dynamic IT landscape, organizations are increasingly adopting **multi-cloud architectures** to improve resilience, reduce vendor lock-in, and leverage the best features of different cloud platforms. A **multi-cloud strategy** involves using services from multiple cloud providers to build a flexible, scalable, and highly available infrastructure. This document explores the integration of **Amazon Web Services (AWS)** and **Render** in a multi-cloud architecture.
